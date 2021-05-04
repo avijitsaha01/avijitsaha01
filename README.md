@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avijit2021/" target="blank"><img align="center"  alt="avijit2021/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avijit2021/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C5635AQE0DPZZy9GM0A/profile-framedphoto-shrink_200_200/0/1619784230813?e=1620208800&v=beta&t=blFcyOUufYQ-loqBqLPIa1haTygyIkEh84tviNhVJmg"  alt="avijit2021/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
