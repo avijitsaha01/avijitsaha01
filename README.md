@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/avijit2021/" target="_blank">Linkedin <img align="center" src="https://media-exp1.licdn.com/dms/image/C5635AQE0DPZZy9GM0A/profile-framedphoto-shrink_200_200/0/1619784230813?e=1620208800&v=beta&t=blFcyOUufYQ-loqBqLPIa1haTygyIkEh84tviNhVJmg"  alt="avijit2021/" height="100" width="100" /></a>
   <a href="https://avijitsaha.netlify.app/" target="_blank">Portfolio <img align="center" src="https://media-exp1.licdn.com/dms/image/C5635AQE0DPZZy9GM0A/profile-framedphoto-shrink_200_200/0/1619784230813?e=1620208800&v=beta&t=blFcyOUufYQ-loqBqLPIa1haTygyIkEh84tviNhVJmg"  alt="avijit2021/" height="100" width="100" /></a>
 </p>
