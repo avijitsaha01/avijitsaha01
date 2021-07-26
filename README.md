@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="height:200px; width:100%;">
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=avijitsaha01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha01&show_icons=true&locale=en&layout=compact" alt="avijitsaha01" />
-  </div>
-<br/>
-<p></p>
-<h3 >A passionate Frontend Developer from Bangladesh</h3>
-<h3 >Connect with me:</h3>
 
+<img src="https://github-readme-stats.vercel.app/api?username=avijitsaha01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha01&show_icons=true&locale=en&layout=compact" alt="avijitsaha01" />
+
+<p></p>
+<h3 >A passionate Web Developer from Bangladesh</h3>
+<h3 >Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/avijit2021/" target="_blank">Linkedin <img align="center" src="https://media-exp1.licdn.com/dms/image/C5635AQE0DPZZy9GM0A/profile-framedphoto-shrink_200_200/0/1619784230813?e=1620208800&v=beta&t=blFcyOUufYQ-loqBqLPIa1haTygyIkEh84tviNhVJmg"  alt="avijit2021/" height="100" width="100" /></a>
-  <a href="https://avijitsaha.netlify.app/" target="_blank">Portfolio <img align="center" src="https://media-exp1.licdn.com/dms/image/C5635AQE0DPZZy9GM0A/profile-framedphoto-shrink_200_200/0/1619784230813?e=1620208800&v=beta&t=blFcyOUufYQ-loqBqLPIa1haTygyIkEh84tviNhVJmg"  alt="avijit2021/" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/avijit2021/" target="_blank">Linkedin <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="100" width="100" /></a>
+  <a href="https://avijitsaha.netlify.app/" target="_blank">Portfolio <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
