@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h3 >A passionate Web Developer from Bangladesh</h3>
 <h3 >Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/avijit2021/" target="_blank">Linkedin <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="100" width="100" /></a>
-  <a href="https://avijitsaha.netlify.app/" target="_blank">Portfolio <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/avijit2021/" target="_blank">Linkedin <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="40" width="40" /></a>
+  <a href="https://avijitsaha.netlify.app/" target="_blank">Portfolio <img align="center" src="https://avijitsaha.netlify.app/assets/img/2091.jpg"  alt="avijit2021/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
